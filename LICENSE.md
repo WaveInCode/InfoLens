@@ -11,7 +11,7 @@ You may use, view, or share this repository **as-is** for any purpose.
 No modifications, derivatives, or adaptations are allowed without express to the copyright holder.
 
 ## 3. Suggestions
-You may provide suggestions or feedback.Acceptance of suggestions or feedback. Acceptance of suggestions is entirely at the discretion of the copyright holder. 
+You may provide suggestions or feedback. Your feedback will be taken into consideration under the discretion of the copyright holder.
 
 ## 4. Redistribution
 Redistribution is allowed **only in unaltered form**, with inclusion or license.
