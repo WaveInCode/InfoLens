@@ -1,6 +1,7 @@
 # **InfoLens - A Web Scraping Dashboard**
 ## Description
   Infolens is a Python and CustomTkinter based GUI dashboard, which scrapes data from credible websites such as ScienceDaily, Economic Times, wttr.in and API(s) such as yfinance to provide you personalized info on multi genres - news, finance, and weather. Whether it be the latest science innovations, real time stock data and highlights, or location based weather fetching; InfoLens ensures u stay up to date with the major trends.
+ 
   
 ## Tech Stack
  Infolens, as stated, is powered by multiple websites and api(s). In general, we have used:
@@ -9,7 +10,7 @@
  3) Requests and BeautifulSoup4 for webscraping
  4) PIL and Pygame for sound and icons.
  5) Other modules such as datetime, random, and webbrowser for added functionality.
-    
+
 Please refer to requirements.txt for more information.
 
 ## Features
@@ -25,7 +26,8 @@ Infolens has a ton of features, the most impressive ones are listed below:
 10. Graceful error handling for invalid input and network issues
 11. Animated title bar with sliding text and blinking cursor
 12. Polished design with navy/charcoal gradients and soft shadows
-
+    Also, click **space** for an animation :)
+    
 ## Compatibility
 ### Infolens Ver. 1.0 has been tested in *windows 10/11*
 
@@ -35,6 +37,7 @@ Infolens has a ton of features, the most impressive ones are listed below:
 - Sounds: Uses **.mp3** files played via **pygame**.
 
 Other platforms (macOS, Linux) may work, but fonts, DPI scaling, or sounds may not render as intended.
+
 
 
 ## Screenshots
@@ -56,6 +59,10 @@ Even if this is currently a school project, I want to continue adding great addi
 * An enhanced finance highlights section with more usability, as well as customizable stock info providing data on a majority of stocks rather than the ones that currently exist.
 * Improved layout system to support different screen sizes
 
+## Feedback/Suggestions
+I would love to hear your invaluable feedback, this will help make the app more suitable and relevant for you!
+
+**Share your thoughts here:** [Suggestions](https://github.com/WaveInCode/InfoLens/issues/1#issue-3520182437)
 
 ## Developer Notes
 InfoLens originates as a school exhibition project, which is thought of and made completely by me. It took about 2 weeks to complete the first working version, and overall 3 weeks to finalize it. I spent on an average 6-7 hours coding and debugging. Multiple issues sprang up such as my limited skills, a deadline and all. I was using CustomTkinter for the first time, along with BeautfulSoup in which i was quite rusty. Though, pushing through each obstacle I now feel happy and proud upon my creation, and intend to further bolster its applications. Its made with lots of love and effort, I hope u like it :)
