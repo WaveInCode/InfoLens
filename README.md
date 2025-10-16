@@ -28,7 +28,7 @@ Infolens has a ton of features, the most impressive ones are listed below:
 
 ## Screenshots
 ### Home Page
-<img width="885" height="925" alt="Screenshot 2025-07-26 195142" src="https://github.com/user-attachments/assets/d4fc8295-ded4-490e-916a-4cfc6c27bcea" />
+<img width="866" height="846" alt="Screenshot 2025-10-16 084030" src="https://github.com/user-attachments/assets/5a998ece-06d7-47af-bbc5-8874d6d9dd7e" />
 
 ### News Dashboard
 <img width="900" height="939" alt="Screenshot 2025-07-26 195245" src="https://github.com/user-attachments/assets/f5a0ff91-d05f-4c2b-bc3f-3ec19c345a9b" />
