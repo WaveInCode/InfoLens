@@ -1,0 +1,7 @@
+customTkinter
+tkinter
+requests
+beautifulsoup4
+Pillow
+yfinance
+pygame
