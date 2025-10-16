@@ -5,7 +5,7 @@ Copyright (c) 2025
 All rights reserved. the copyright and all the rights to this repository belong solely by the copyright holder.
 
 ## 1. Usage
-You may use, view, or share this repository **as-is**
+You may use, view, or share this repository **as-is** for any purpose.
 
 ## 2. Modifications
 No modifications, derivatives, or adaptations are allowed without express to the copyright holder.
