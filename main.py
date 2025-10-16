@@ -11,6 +11,7 @@ from weather_scraper import Weather_Details_Provider
 from news_scraper import General_News_Provider
 from finance_scraper import Finance_News_Finder,Stock_Detail_Fetcher
 import ctypes
+import os
 
 #adding dpi awareness
 try:
@@ -23,8 +24,8 @@ OFFLINE = False
 
 
 pygame.mixer.init()
-button_click_sound = pygame.mixer.Sound(r"icons\ui-button-click-5-327756.mp3")
-post_transition_sound = pygame.mixer.Sound(r"icons\level-up-02-199574.mp3")
+button_click_sound = pygame.mixer.Sound(os.path.join("icons","ui-button-click-5-327756.mp3"))
+post_transition_sound = pygame.mixer.Sound(os.path.join("icons","level-up-02-199574.mp3"))
 post_transition_sound.set_volume(0.4)
 
 #gui_attributes
