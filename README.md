@@ -26,6 +26,17 @@ Infolens has a ton of features, the most impressive ones are listed below:
 11. Animated title bar with sliding text and blinking cursor
 12. Polished design with navy/charcoal gradients and soft shadows
 
+## Compatibility
+### Infolens Ver. 1.0 has been tested in *windows 10/11*
+
+**Note:** Some features are Windows-specific:
+- Fonts: Uses **Arial, Bahnschrift, Fira Code, Calibri** as the primary fonts.
+- DPI awareness: Ensures sharp display on high-resolution screens.
+- Sounds: Uses **.mp3** files played via **pygame**.
+
+Other platforms (macOS, Linux) may work, but fonts, DPI scaling, or sounds may not render as intended.
+
+
 ## Screenshots
 ### Home Page
 <img width="866" height="846" alt="Screenshot 2025-10-16 084030" src="https://github.com/user-attachments/assets/5a998ece-06d7-47af-bbc5-8874d6d9dd7e" />
