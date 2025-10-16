@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import font 
 import customtkinter as ctk
 from PIL import Image
 import datetime
@@ -7,8 +8,8 @@ import pygame as pg
 import os
 
 pg.mixer.init()
-click_sound = pg.mixer.Sound(r"icons\keyboard-typing-one-short-1-292590.mp3")
-frame_switch_sound = pg.mixer.Sound(r"icons\soft-transition-338894_ziSUAWbT.mp3")
+click_sound = pg.mixer.Sound(os.path.join("icons","keyboard-typing-one-short-1-292590.mp3"))
+frame_switch_sound = pg.mixer.Sound(os.path.join("icons","soft-transition-338894_ziSUAWbT.mp3"))
 
 
 
@@ -26,6 +27,7 @@ FINANCE_FRAME_COLOR = "#2B3F36"
 BUTTON_HOVER_COLOR = "#394B59"
 DROPDOWN_HOVER_COLOR = "#2F3D4A"
 CONFIRM_BTN_HOVER = "#34495E"
+
 
 #icons
 icon_url = os.path.join("icons","icon-removebg-preview.png")
