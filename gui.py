@@ -104,7 +104,7 @@ class Home_Page(Frame):
             "aboutbutton" : ctk.CTkButton(self.frame, text = "About",font = ("Calibri",25),text_color = TEXT_COLOR1,fg_color = BG_COLOR
                                   ,image = about_button_icon,compound="right",hover_color = BUTTON_HOVER_COLOR,border_color="#70A1FF",
                                   border_width= 2),
-            "creditslabel" : ctk.CTkLabel(self.frame,text = "Created with ♡ by - Code: Garvit | Docs:  Vivek",font = ("Fira Code",20),
+            "creditslabel" : ctk.CTkLabel(self.frame,text = "Created with ♡ by Leon",font = ("Fira Code",20),
                                           text_color = "#7D5FFF")
 
             }
@@ -374,3 +374,4 @@ class Notification(Frame):
             message_label.pack()
             secondary_label.pack()
             self.win.after(5000,prompt_win.destroy)
+
